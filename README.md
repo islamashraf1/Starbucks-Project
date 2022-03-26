@@ -7,7 +7,8 @@ Starbucks sends out an offer to users of the mobile app. An offer can be merely 
 1. [Installation](#installation)
 2. [Project Motivation](#project-motivation)
 3. [File Descriptions](#file-descriptions)
-4. [Instructions](#Instructions)
+4. [Results](#Results)
+5. [References](#References)
 
 
 ## installation
@@ -23,3 +24,8 @@ this project Aims to explore starbucks cutomers and apply ML on this dataset to 
  ## Results
  Results can be easily found here https://medium.com/@islam.ashraf2002/starbucks-offers-into-analysis-python-a614dc243195
  
+## References
+https://en.wikipedia.org/wiki/F-score
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html?highlight=gridsearchcv#sklearn.model_selection.GridSearchCV
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.html
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html?highlight=adaboost#sklearn.ensemble.AdaBoostClassifier
